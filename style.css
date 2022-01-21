@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;1,600&display=swap");
+table {
+  border-collapse: collapse;
+  border: 3px solid black;
+  font-family: poppins;
+  width: 600px;
+  height: 200px;
+}
+th,
+td {
+  text-align: left;
+  padding: 5px;
+  border: 3px solid black;
+  background-color: white;
+  color: black;
+}
+th {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+td {
+  font-size: 1rem;
+}
+
+.orange {
+  background-color: orange;
+  color: white;
+}
+.blue {
+  background-color: blue;
+    color: white;
+
+}
+.green {
+    background-color: green;
+      color: white;
+
+}
